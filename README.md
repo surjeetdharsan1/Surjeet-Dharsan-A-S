@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Surjeet Dharsan A S
 ===========================================================================================================================================
 
-Co-Founder,COO and Undergraduate Computer Science and Engineering student
--------------------------------------------------------------------------
+Co-Founder,COO @DevNovus and Undergraduate Computer Science and Engineering student
+-----------------------------------------------------------------------------------
+
+I am a start-up Co-Founder ,COO and a CS undergrad currently in pre-final year and in a mission in creating and transforming web applications.
 
 *   🌍  I'm based in Chennai,TN,IN
 *   ✉️  You can contact me at [surjeetdharsan27@gmail.com](mailto:surjeetdharsan27@gmail.com)
